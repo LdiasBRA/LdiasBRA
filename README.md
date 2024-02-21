@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LdiasBRA
-- 👀 I’m interested in Fiance and Ecnomics
+- 👀 I’m interested in Finance and Economics
 - 🌱 I’m currently learning Regression applications with equities
 - 💞️ I’m looking to collaborate on any data involving Financial Economics
 - 📫 How to reach me lucasdiastuga@gmail.com or porwaves on discord
